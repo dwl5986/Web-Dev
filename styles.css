@@ -1,0 +1,96 @@
+#wrapper
+{
+		margin-left: auto;
+		margin-right: auto;
+		width: 1000px;
+		height: 600px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: #80FF00;
+		font-family: Helvetica, Arial, Times New Roman;
+}
+
+#navbar
+{
+       text-align: center;
+       margin-left: auto;
+       margin-right: auto;
+       height: 50px;
+       width: 1000px;
+}
+
+#resumeWrapper
+{
+        margin-left: auto;
+		margin-right: auto;
+		width: 1000px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: #80FF00;
+		font-family: Helvetica, Arial, Times New Roman;
+}
+
+#resumeContent
+{
+        margin-left: auto;
+		margin-right: auto;
+        width: 1000px;
+        text-align: justify;
+}
+
+resumeHomelink
+{
+        width: 1000px;
+        text-align: center;  
+}
+#content1
+{
+        position: absolute;
+        text-align: justify;
+        width: 450px;
+}
+
+#content2
+{
+        position: absolute;
+        text-align: justify;
+        width: 450px;
+        left: 50%;
+}
+
+#homelink
+{
+        position: absolute;
+        top: 590px;
+        width: 1000px;
+        text-align: center;       
+}
+		
+body
+{
+		background-color: #088A08;
+}
+	
+header
+{
+        margin-left: auto;
+        margin-right: auto;
+        height:150px;
+}
+
+a
+{
+       padding-left: 30px;
+       padding-right: 30px;
+       padding-bottom: 15px;
+       padding-top: 15px;
+}
+		
+h1, h2
+{
+		text-align: center;
+}
